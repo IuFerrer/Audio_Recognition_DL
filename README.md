@@ -11,3 +11,5 @@ Audios and matrices: https://drive.google.com/drive/folders/1Ud5xCLNe8ciY91q6HSH
 Spectograms: https://drive.google.com/drive/folders/1qqSjVETtAg10H9Ed_-IJI6PzcbgkXw2o?usp=sharing
 
 You only have access with UPF accounts.
+
+In the Results folder you should find the model already trained.
