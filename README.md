@@ -1,5 +1,5 @@
 # Audio_Recognition_DL
-Projecte Final Deep Learning 
+Final Project Deep Learning 
 
 The Database of audios we created for this project is too large so we leave the link of the 
 drive folder where there are all the audios and the link of the folder where there are 
